@@ -1,4 +1,4 @@
-# Laddning
+# Wetteus laddning BMW i4
 
 Enkel laddkalkylator för elbil – en HTML-fil, öppna på iPhone och lägg till på hemskärmen.
 
